@@ -1,5 +1,6 @@
 <template>
   <NuxtLayout>
+
     <section>
       <h2>About us</h2>
       <p>we are great</p>
@@ -13,5 +14,8 @@
         <li>...</li>
       </ul>
     </section>
+
   </NuxtLayout>
 </template>
+<script setup lang="ts">
+</script>
