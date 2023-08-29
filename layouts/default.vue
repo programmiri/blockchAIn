@@ -11,7 +11,7 @@
 
   <footer class="pt-5 text-center">
     <hr />
-    <p>&copy; 2023 blockchAin</p>
+    <p>&copy; 2023 blockchAIn</p>
   </footer>
 </template>
 
