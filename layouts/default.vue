@@ -22,7 +22,7 @@
 
   <footer class="pt-5 text-center">
     <hr />
-    <p>&copy; 2023 blockchAIn</p>
+    <p>&copy; 2024 <CompanyName /></p>
   </footer>
 </template>
 
