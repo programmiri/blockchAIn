@@ -44,6 +44,7 @@
           <a href="#job1" class="list-group-item list-group-item-action">➡ Software Engineer</a>
           <a href="#job2" class="list-group-item list-group-item-action">➡ Product Manager</a>
           <a href="#job3" class="list-group-item list-group-item-action">➡ UX Designer</a>
+          <a href="#job4" class="list-group-item list-group-item-action">➡ Hyper Growth Manager</a>
         </div>
       </div>
 
@@ -111,7 +112,29 @@
         <h4>How to apply</h4>
         <p>Send your resume and cover letter to <a href="mailto:adventure@legit-blockchain-ai.company">adventure@legit-blockchain-ai.company</a>.</p>
       </div>
-
+      <hr />
+      <div id="job4" class="mb-5">
+        <h3>Hyper Growth Manager</h3>
+        <p><strong>Location:</strong> remote, be willing to travel for exiting team meetings a few time a year</p>
+        <p><strong>Job Type:</strong> full-time</p>
+        <h4>What we're looking for</h4>
+        <p>In our startup, where everything is growing at lightning speed—except maybe the office plant—we're looking for a Hyper Growth Manager.</p>
+        <p>Develop, implement, and optimize strategies that will get us to Mars. And when we get to Mars, you will build a house. And then you will be responsible for getting us through the roof of that house, on Mars.</p> 
+        <p>Resource management: Hyper Hyper growth and tough choices that fit our business model. As we step on the gas pedal to Mars, we need to lighten our load from time to time. Does that feel natural to you? Then you are the right person for the job. You'll optimize our resources and push everyone to deliver at lightning speed.</p> 
+         
+        <h4>What you bring to the table</h4>
+        <p>You've spent several years in a rocket ship or on Mars, or on the Sun, I mean, a fast-growing company, and you know what it's like to operate under extreme pressure or heat. Multitasking Genius: You can juggle not just balls or chainsaws, but also projects, deadlines and occasionally planets</p>
+        <ul>
+          <li>PhD in human resources, space travel, construction or related fields, with an obsession for futuristic architecture. </li>
+          <li>11+ years of experience in fast-paced, agile tech environments.</li>
+          <li>Data management and space travel experience is a must.</li>
+          <li>Deep experience in managing AI-driven blockchain high-performing rock star teams.</li>
+          <li>Experience in crucial conversations, i.e. delivering unpleasant news to people in a non-transparent way.</li>
+          <li>A black belt in performance metrics and numbers driven resource decision management. And a high degree of needs-based abstraction.</li>
+        </ul>
+        <h4>How to apply</h4>
+        <p>Send your resume and cover letter to <a href="mailto:adventure@legit-blockchain-ai.company">adventure@legit-blockchain-ai.company</a>.</p>
+      </div>
 
   </section>
 
