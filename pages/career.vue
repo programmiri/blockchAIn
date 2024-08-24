@@ -8,7 +8,7 @@
       <div class="list-group mb-5">
         <a href="#who-we-are" class="list-group-item list-group-item-action">➡ Who We Are</a>
         <a href="#our-values" class="list-group-item list-group-item-action">➡ Our Values</a>
-        <a href="#you-are-what-we-are-looking-for" class="list-group-item list-group-item-action">➡ You Are What We Are Looking For If</a>
+        <a href="#you-are-what-we-are-looking-for" class="list-group-item list-group-item-action">➡ You Are What We Are Looking For</a>
         <a href="#open-jobs" class="list-group-item list-group-item-action">➡ Open jobs</a>
       </div>
 
@@ -28,7 +28,7 @@
       </div>
 
       <div id="you-are-what-we-are-looking-for" class="mb-5">
-        <h2>You Are What We Are Looking For If</h2>
+        <h2>You Are What We Are Looking For</h2>
         <p>Are you a tech virtuoso with a burning passion to disrupt the status quo and a drive to make a monumental impact? Do you aspire to be a rockstar in the tech world and thrive in an environment where only the audacious succeed? Then look no further.</p>
         <p>Join our elite team of trailblazers on an exhilarating quest to reshape the future. Our salaries are so competitive they make others look like pocket change — just enough to fuel your passion while you embrace a work schedule where boredom is a distant concept.</p>
         <p>We’re seeking those who are ready to exceed every limit, push beyond boundaries, and be part of something truly epic. Ready to elevate your career? Welcome to the challenge.</p>
@@ -51,7 +51,7 @@
     </div>
     <hr />
       <div id="job1" class="mb-5">
-        <h3>Rockstar Software Engineer</h3>
+        <h3>11x Rockstar Software Engineer</h3>
         <p><strong>Location:</strong> remote, be willing to travel for exiting team meetings a few time a year</p>
         <p><strong>Job Type:</strong> full-time</p>
         <h4>What we're looking for</h4>
